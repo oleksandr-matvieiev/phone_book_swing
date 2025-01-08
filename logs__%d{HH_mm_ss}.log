@@ -1,0 +1,184 @@
+15:26:20 INFO  DBHandler - Connecting to jdbc:sqlite:identifier.sqlite...
+15:26:20 INFO  DBHandler - Success! DB version - 3.44.1
+15:11:09 INFO  DBHandler - Connecting to jdbc:sqlite:identifier.sqlite...
+15:11:09 INFO  DBHandler - Success! DB version - 3.44.1
+15:15:30 INFO  DBHandler - Connecting to jdbc:sqlite:identifier.sqlite...
+15:15:31 INFO  DBHandler - Success! DB version - 3.44.1
+15:17:44 DEBUG DBHandler - Retrieving contact with nickname = Eda.Hirthe
+15:17:44 INFO  DBHandler - Smth went wrong for Eda.Hirthe
+15:17:44 DEBUG DBHandler - no such column: 'phone'
+15:17:45 DEBUG DBHandler - Retrieving contact with nickname = Laila.Wintheiser
+15:17:45 INFO  DBHandler - Smth went wrong for Laila.Wintheiser
+15:17:45 DEBUG DBHandler - no such column: 'phone'
+15:17:47 DEBUG DBHandler - Retrieving contact with nickname = Jeramy.Connelly
+15:17:47 INFO  DBHandler - Smth went wrong for Jeramy.Connelly
+15:17:47 DEBUG DBHandler - no such column: 'phone'
+15:17:49 DEBUG DBHandler - Retrieving contact with nickname = Walter_Steuber
+15:17:49 INFO  DBHandler - Smth went wrong for Walter_Steuber
+15:17:49 DEBUG DBHandler - no such column: 'phone'
+15:17:50 DEBUG DBHandler - Retrieving contact with nickname = Walter_Steuber
+15:17:50 INFO  DBHandler - Smth went wrong for Walter_Steuber
+15:17:50 DEBUG DBHandler - no such column: 'phone'
+15:17:51 DEBUG DBHandler - Retrieving contact with nickname = Eldridge_Hauck
+15:17:51 INFO  DBHandler - Smth went wrong for Eldridge_Hauck
+15:17:51 DEBUG DBHandler - no such column: 'phone'
+15:17:52 DEBUG DBHandler - Retrieving contact with nickname = Gudrun_Hayes
+15:17:52 INFO  DBHandler - Smth went wrong for Gudrun_Hayes
+15:17:52 DEBUG DBHandler - no such column: 'phone'
+15:17:55 DEBUG DBHandler - Retrieving contact with nickname = Laurianne.Hand
+15:17:55 INFO  DBHandler - Smth went wrong for Laurianne.Hand
+15:17:55 DEBUG DBHandler - no such column: 'phone'
+15:18:00 DEBUG DBHandler - Retrieving contact with nickname = Ivy
+15:18:00 INFO  DBHandler - Smth went wrong for Ivy
+15:18:00 DEBUG DBHandler - no such column: 'phone'
+15:39:16 DEBUG DBHandler - Retrieving contact with nickname = Jeramy.Connelly
+15:39:16 INFO  DBHandler - Smth went wrong for Jeramy.Connelly
+15:39:16 DEBUG DBHandler - no such column: 'phone'
+15:39:23 DEBUG DBHandler - Retrieving contact with nickname = Laila.Wintheiser
+15:39:23 INFO  DBHandler - Smth went wrong for Laila.Wintheiser
+15:39:23 DEBUG DBHandler - no such column: 'phone'
+15:39:28 DEBUG DBHandler - Retrieving contact with nickname = Valerie
+15:39:28 INFO  DBHandler - Smth went wrong for Valerie
+15:39:28 DEBUG DBHandler - no such column: 'phone'
+15:39:37 INFO  DBHandler - Connecting to jdbc:sqlite:identifier.sqlite...
+15:39:37 INFO  DBHandler - Success! DB version - 3.44.1
+15:39:55 DEBUG DBHandler - Retrieving contact with nickname = Eda.Hirthe
+15:39:55 INFO  DBHandler - Smth went wrong for Eda.Hirthe
+15:39:55 DEBUG DBHandler - no such column: 'phone'
+15:39:57 DEBUG DBHandler - Retrieving contact with nickname = Abdiel
+15:39:57 INFO  DBHandler - Smth went wrong for Abdiel
+15:39:57 DEBUG DBHandler - no such column: 'phone'
+15:39:58 DEBUG DBHandler - Retrieving contact with nickname = Jasper.Hermann
+15:39:58 INFO  DBHandler - Smth went wrong for Jasper.Hermann
+15:39:58 DEBUG DBHandler - no such column: 'phone'
+15:40:00 DEBUG DBHandler - Retrieving contact with nickname = Zack.Marvin
+15:40:00 INFO  DBHandler - Smth went wrong for Zack.Marvin
+15:40:00 DEBUG DBHandler - no such column: 'phone'
+15:40:03 DEBUG DBHandler - Retrieving contact with nickname = Jeramy.Connelly
+15:40:03 INFO  DBHandler - Smth went wrong for Jeramy.Connelly
+15:40:03 DEBUG DBHandler - no such column: 'phone'
+15:42:13 INFO  DBHandler - Connecting to jdbc:sqlite:identifier.sqlite...
+15:42:14 INFO  DBHandler - Success! DB version - 3.44.1
+15:42:17 DEBUG DBHandler - Retrieving contact with nickname = Laila.Wintheiser
+15:42:17 INFO  DBHandler - Smth went wrong for Laila.Wintheiser
+15:42:17 DEBUG DBHandler - no such column: 'phone'
+15:42:23 DEBUG DBHandler - Retrieving contact with nickname = Eldon
+15:42:23 INFO  DBHandler - Smth went wrong for Eldon
+15:42:23 DEBUG DBHandler - no such column: 'phone'
+15:43:48 INFO  DBHandler - Connecting to jdbc:sqlite:identifier.sqlite...
+15:43:48 INFO  DBHandler - Success! DB version - 3.44.1
+15:43:50 DEBUG DBHandler - Retrieving contact with nickname = Anthony
+15:43:51 DEBUG DBHandler - Retrieving contact with nickname = Turner_Schmeler
+15:43:52 DEBUG DBHandler - Retrieving contact with nickname = Jasper.Hermann
+15:44:34 INFO  DBHandler - Connecting to jdbc:sqlite:identifier.sqlite...
+15:44:34 INFO  DBHandler - Success! DB version - 3.44.1
+15:46:19 INFO  DBHandler - Connecting to jdbc:sqlite:identifier.sqlite...
+15:46:19 INFO  DBHandler - Success! DB version - 3.44.1
+15:46:36 DEBUG DBHandler - Retrieving contact with nickname = Sahsa
+15:46:37 DEBUG DBHandler - Retrieving contact with nickname = Sahsa
+15:46:57 DEBUG DBHandler - Retrieving contact with nickname = Vivian
+15:47:26 INFO  DBHandler - Connecting to jdbc:sqlite:identifier.sqlite...
+15:47:26 INFO  DBHandler - Success! DB version - 3.44.1
+16:11:19 INFO  DBHandler - Connecting to jdbc:sqlite:identifier.sqlite...
+16:11:19 INFO  DBHandler - Success! DB version - 3.44.1
+16:11:21 DEBUG DBHandler - Retrieving contact with nickname = Alvis111
+16:11:23 DEBUG DBHandler - Retrieving contact with nickname = Jasper.Hermann111
+16:11:24 DEBUG DBHandler - Retrieving contact with nickname = Jasper.Hermann111
+16:11:24 DEBUG DBHandler - Retrieving contact with nickname = Jasper.Hermann
+16:11:25 DEBUG DBHandler - Retrieving contact with nickname = Hester.Schaefer111
+16:11:27 DEBUG DBHandler - Retrieving contact with nickname = Zack.Marvin111
+16:11:37 INFO  DBHandler - Connecting to jdbc:sqlite:identifier.sqlite...
+16:11:37 INFO  DBHandler - Success! DB version - 3.44.1
+16:11:38 DEBUG DBHandler - Retrieving contact with nickname = Anthony
+16:11:39 DEBUG DBHandler - Retrieving contact with nickname = Janessa
+16:11:40 DEBUG DBHandler - Retrieving contact with nickname = Abdiel
+16:56:35 INFO  DBHandler - Connecting to jdbc:sqlite:identifier.sqlite...
+16:56:35 INFO  DBHandler - Success! DB version - 3.44.1
+16:57:17 INFO  DBHandler - Connecting to jdbc:sqlite:identifier.sqlite...
+16:57:17 INFO  DBHandler - Success! DB version - 3.44.1
+16:57:43 DEBUG DBHandler - Adding new contact with nickname = Нік
+16:57:48 DEBUG DBHandler - Retrieving contact with nickname = Нік
+16:58:56 INFO  DBHandler - Connecting to jdbc:sqlite:identifier.sqlite...
+16:58:56 INFO  DBHandler - Success! DB version - 3.44.1
+17:24:25 INFO  DBHandler - Connecting to jdbc:sqlite:identifier.sqlite...
+17:24:25 INFO  DBHandler - Success! DB version - 3.44.1
+17:24:35 DEBUG DBHandler - Retrieving contact with nickname = Нік
+17:24:43 INFO  DBHandler - Connecting to jdbc:sqlite:identifier.sqlite...
+17:24:43 INFO  DBHandler - Success! DB version - 3.44.1
+17:25:24 INFO  DBHandler - Connecting to jdbc:sqlite:identifier.sqlite...
+17:25:24 INFO  DBHandler - Success! DB version - 3.44.1
+17:25:25 DEBUG DBHandler - Retrieving contact with nickname = Jasper.Hermann
+17:27:32 INFO  DBHandler - Connecting to jdbc:sqlite:identifier.sqlite...
+17:27:32 INFO  DBHandler - Success! DB version - 3.44.1
+17:27:33 DEBUG DBHandler - Retrieving contact with nickname = Jasper.Hermann
+17:27:36 DEBUG DBHandler - Delete
+17:27:38 DEBUG DBHandler - Retrieving contact with nickname = Turner_Schmeler
+17:27:39 DEBUG DBHandler - Delete
+17:27:43 DEBUG DBHandler - Delete
+17:27:46 DEBUG DBHandler - Delete
+17:28:04 INFO  DBHandler - Connecting to jdbc:sqlite:identifier.sqlite...
+17:28:04 INFO  DBHandler - Success! DB version - 3.44.1
+17:28:05 DEBUG DBHandler - Retrieving contact with nickname = Maudie_Dare
+17:28:14 DEBUG DBHandler - Adding new contact with nickname = 1
+17:28:19 DEBUG DBHandler - Delete
+21:36:51 INFO  DBHandler - Connecting to jdbc:sqlite:identifier.sqlite...
+21:36:52 INFO  DBHandler - Success! DB version - 3.44.1
+22:07:32 INFO  DBHandler - Connecting to jdbc:sqlite:identifier.sqlite...
+22:07:36 INFO  DBHandler - Success! DB version - 3.44.1
+22:08:08 INFO  DBHandler - Connecting to jdbc:sqlite:identifier.sqlite...
+22:08:09 INFO  DBHandler - Success! DB version - 3.44.1
+22:32:07 INFO  DBHandler - Connecting to jdbc:sqlite:identifier.sqlite...
+22:32:08 INFO  DBHandler - Success! DB version - 3.44.1
+22:32:35 INFO  DBHandler - Connecting to jdbc:sqlite:identifier.sqlite...
+22:32:35 INFO  DBHandler - Success! DB version - 3.44.1
+22:32:49 INFO  DBHandler - Connecting to jdbc:sqlite:identifier.sqlite...
+22:32:49 INFO  DBHandler - Success! DB version - 3.44.1
+22:33:00 INFO  DBHandler - Connecting to jdbc:sqlite:identifier.sqlite...
+22:33:01 INFO  DBHandler - Success! DB version - 3.44.1
+22:34:23 INFO  DBHandler - Connecting to jdbc:sqlite:identifier.sqlite...
+22:34:23 INFO  DBHandler - Success! DB version - 3.44.1
+22:40:18 INFO  DBHandler - Connecting to jdbc:sqlite:identifier.sqlite...
+22:40:19 INFO  DBHandler - Success! DB version - 3.44.1
+22:40:43 INFO  DBHandler - Connecting to jdbc:sqlite:identifier.sqlite...
+22:40:43 INFO  DBHandler - Success! DB version - 3.44.1
+22:40:56 INFO  DBHandler - Connecting to jdbc:sqlite:identifier.sqlite...
+22:40:56 INFO  DBHandler - Success! DB version - 3.44.1
+22:41:03 INFO  DBHandler - Connecting to jdbc:sqlite:identifier.sqlite...
+22:41:03 INFO  DBHandler - Success! DB version - 3.44.1
+22:41:34 INFO  DBHandler - Connecting to jdbc:sqlite:identifier.sqlite...
+22:41:34 INFO  DBHandler - Success! DB version - 3.44.1
+22:50:29 INFO  DBHandler - Connecting to jdbc:sqlite:identifier.sqlite...
+22:50:29 INFO  DBHandler - Success! DB version - 3.44.1
+22:50:37 INFO  DBHandler - Connecting to jdbc:sqlite:identifier.sqlite...
+22:50:37 INFO  DBHandler - Success! DB version - 3.44.1
+22:50:44 INFO  DBHandler - Connecting to jdbc:sqlite:identifier.sqlite...
+22:50:44 INFO  DBHandler - Success! DB version - 3.44.1
+22:50:55 INFO  DBHandler - Connecting to jdbc:sqlite:identifier.sqlite...
+22:50:55 INFO  DBHandler - Success! DB version - 3.44.1
+22:51:12 INFO  DBHandler - Connecting to jdbc:sqlite:identifier.sqlite...
+22:51:12 INFO  DBHandler - Success! DB version - 3.44.1
+22:51:22 INFO  DBHandler - Connecting to jdbc:sqlite:identifier.sqlite...
+22:51:22 INFO  DBHandler - Success! DB version - 3.44.1
+22:51:45 INFO  DBHandler - Connecting to jdbc:sqlite:identifier.sqlite...
+22:51:45 INFO  DBHandler - Success! DB version - 3.44.1
+22:51:54 INFO  DBHandler - Connecting to jdbc:sqlite:identifier.sqlite...
+22:51:54 INFO  DBHandler - Success! DB version - 3.44.1
+22:52:02 INFO  DBHandler - Connecting to jdbc:sqlite:identifier.sqlite...
+22:52:02 INFO  DBHandler - Success! DB version - 3.44.1
+22:53:18 INFO  DBHandler - Connecting to jdbc:sqlite:identifier.sqlite...
+22:53:19 INFO  DBHandler - Success! DB version - 3.44.1
+22:53:22 DEBUG DBHandler - Retrieving contact with nickname = Estel
+22:53:23 DEBUG DBHandler - Retrieving contact with nickname = Laila.Wintheiser
+22:53:25 DEBUG DBHandler - Retrieving contact with nickname = Abdiel
+22:53:26 DEBUG DBHandler - Retrieving contact with nickname = Hester.Schaefer
+22:53:27 DEBUG DBHandler - Retrieving contact with nickname = Zack.Marvin
+22:53:28 DEBUG DBHandler - Retrieving contact with nickname = Valerie
+22:53:29 DEBUG DBHandler - Retrieving contact with nickname = Maudie_Dare
+22:53:30 DEBUG DBHandler - Retrieving contact with nickname = Anthony
+22:53:31 DEBUG DBHandler - Retrieving contact with nickname = Eldon
+17:58:38 INFO  DBHandler - Connecting to jdbc:sqlite:identifier.sqlite...
+17:58:39 INFO  DBHandler - Success! DB version - 3.44.1
+23:33:35 INFO  DBHandler - Connecting to jdbc:sqlite:identifier.sqlite...
+23:33:36 INFO  DBHandler - Success! DB version - 3.44.1
+23:34:15 DEBUG DBHandler - Adding new contact with nickname = nickname
+23:34:19 DEBUG DBHandler - Retrieving contact with nickname = nickname
